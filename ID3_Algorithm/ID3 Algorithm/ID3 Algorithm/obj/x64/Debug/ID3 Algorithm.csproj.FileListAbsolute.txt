@@ -1,0 +1,18 @@
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\bin\x64\Debug\ID3 Algorithm.exe.config
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\bin\x64\Debug\ID3 Algorithm.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\bin\x64\Debug\ID3 Algorithm.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3_Algorithm.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3_Algorithm.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2012\Projects\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\ID3 Algorithm\ID3 Algorithm\bin\x64\Debug\ID3 Algorithm.exe.config
+C:\Users\Lenovo\Desktop\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.exe
+C:\Users\Lenovo\Desktop\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.pdb
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\ID3_Algorithm\ID3 Algorithm\ID3 Algorithm\bin\x64\Debug\ID3 Algorithm.exe.config
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\ID3_Algorithm\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\ID3_Algorithm\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\ID3_Algorithm\ID3 Algorithm\ID3 Algorithm\obj\x64\Debug\ID3 Algorithm.pdb

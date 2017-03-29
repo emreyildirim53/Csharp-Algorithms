@@ -1,0 +1,3 @@
+Projede verilen veri seti traininSet.xlsx adlý excell dosyasýndadýr.
+
+proje Java çýktýsýylada kontrol edilmiþtir. bknz:java.png
