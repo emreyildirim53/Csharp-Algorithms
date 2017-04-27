@@ -1,0 +1,24 @@
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\bin\x64\Debug\K Nearest Neighbors Algorithm.exe.config
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.csproj.ResolveComReference.cache
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\bin\x64\Debug\K Nearest Neighbors Algorithm.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\bin\x64\Debug\K Nearest Neighbors Algorithm.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K_Nearest_Neighbors_Algorithm.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K_Nearest_Neighbors_Algorithm.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\Interop.COMAdmin.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\Interop.COMSVCSLib.dll
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\bin\x64\Debug\K Nearest Neighbors Algorithm.exe.config
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\Interop.COMAdmin.dll
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\Interop.COMSVCSLib.dll
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.pdb
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\bin\x64\Debug\K Nearest Neighbors Algorithm.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\bin\x64\Debug\K Nearest Neighbors Algorithm.pdb
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K_Nearest_Neighbors_Algorithm.Form1.resources
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K_Nearest_Neighbors_Algorithm.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\K Nearest Neighbors\K Nearest Neighbors Algorithm\K Nearest Neighbors Algorithm\obj\x64\Debug\K Nearest Neighbors Algorithm.csproj.GenerateResource.Cache

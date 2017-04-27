@@ -1,0 +1,1 @@
+Knn algoritmasý kod içerisinde verilen programý baþlangýç seti olarak verilmiþtir.Kod içeriðinde dosya yolu deðiþtirilerek farklý veri setleri denenebilir. Veri setleri kategorik deðiþken içermemelidir. Bütün attributelerin sayýsal deðiþken olmasý beklenir.
