@@ -283,6 +283,21 @@ namespace Naive_Bayes_Classification
             }
         }
 
+        private void dataView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dosyaYolu_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
        
 
           

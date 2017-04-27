@@ -8,3 +8,13 @@ c:\users\lenovo\documents\visual studio 2012\Projects\Naive Bayes Classification
 c:\users\lenovo\documents\visual studio 2012\Projects\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.exe
 c:\users\lenovo\documents\visual studio 2012\Projects\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.pdb
 c:\users\lenovo\documents\visual studio 2012\Projects\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\bin\x64\Debug\Naive Bayes Classification.exe.config
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.pdb
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\bin\x64\Debug\Naive Bayes Classification.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\bin\x64\Debug\Naive Bayes Classification.pdb
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive_Bayes_Classification.Form1.resources
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive_Bayes_Classification.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Naive Bayes Classification\Naive Bayes Classification\Naive Bayes Classification\obj\x64\Debug\Naive Bayes Classification.csproj.GenerateResource.Cache
