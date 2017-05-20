@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\bin\Debug\Adaline-ANN.exe.config
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\obj\Debug\Adaline-ANN.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\obj\Debug\Adaline_ANN.Form1.resources
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\obj\Debug\Adaline_ANN.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\obj\Debug\Adaline-ANN.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\bin\Debug\Adaline-ANN.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\bin\Debug\Adaline-ANN.pdb
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\obj\Debug\Adaline-ANN.exe
+C:\Users\Lenovo\Desktop\Modüller Ders Notları\BİL3112 Makine Öğrenimi\Adaline Metodu\Adaline-ANN\Adaline-ANN\obj\Debug\Adaline-ANN.pdb
